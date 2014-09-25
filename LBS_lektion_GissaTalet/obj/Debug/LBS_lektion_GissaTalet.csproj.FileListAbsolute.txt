@@ -1,0 +1,6 @@
+c:\users\su14eriks\documents\visual studio 2013\Projects\LBS_lektion_GissaTalet\LBS_lektion_GissaTalet\bin\Debug\LBS_lektion_GissaTalet.exe.config
+C:\Users\su14eriks\Documents\Visual Studio 2013\Projects\LBS_lektion_GissaTalet\LBS_lektion_GissaTalet\bin\Debug\LBS_lektion_GissaTalet.exe
+C:\Users\su14eriks\Documents\Visual Studio 2013\Projects\LBS_lektion_GissaTalet\LBS_lektion_GissaTalet\bin\Debug\LBS_lektion_GissaTalet.pdb
+C:\Users\su14eriks\Documents\Visual Studio 2013\Projects\LBS_lektion_GissaTalet\LBS_lektion_GissaTalet\obj\Debug\LBS_lektion_GissaTalet.csprojResolveAssemblyReference.cache
+C:\Users\su14eriks\Documents\Visual Studio 2013\Projects\LBS_lektion_GissaTalet\LBS_lektion_GissaTalet\obj\Debug\LBS_lektion_GissaTalet.exe
+C:\Users\su14eriks\Documents\Visual Studio 2013\Projects\LBS_lektion_GissaTalet\LBS_lektion_GissaTalet\obj\Debug\LBS_lektion_GissaTalet.pdb
